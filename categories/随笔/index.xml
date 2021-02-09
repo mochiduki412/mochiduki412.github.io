@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>随笔 on 澄乃&#39;s blog</title>
-    <link>https://sumino-blog.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+    <link>https://mochiduki412.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content in 随笔 on 澄乃&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Feb 2021 23:36:39 +0800</lastBuildDate><atom:link href="https://sumino-blog.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 23:36:39 +0800</lastBuildDate><atom:link href="https://mochiduki412.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇博客</title>
-      <link>https://sumino-blog.github.io/p/first-blog/</link>
+      <link>https://mochiduki412.github.io/p/first-blog/</link>
       <pubDate>Sat, 06 Feb 2021 23:36:39 +0800</pubDate>
       
-      <guid>https://sumino-blog.github.io/p/first-blog/</guid>
+      <guid>https://mochiduki412.github.io/p/first-blog/</guid>
       <description>序言 - 第一个博客网站 2020下半年在用Django写项目时，因对前端不太了解，在参考前端实现时，偶识了typecho和hugo（的主题实现）。21年初Github上浏览主题时，一眼就喜欢上了JimmyCai设计的这款，所以产生了建立这个博客的兴趣。
 简介  喜欢计算机和各工程技术 喜欢エロゲー 喜欢エロゲーソングメドレー和エロゲーソングカラオケ  大学时期的生活基本上是围绕以上进行的了。由于自己是上大学后才开始接触电子和计算机的，在前半时期充满兴致地参加了不少技术社团活动（虽然很多都听得半知半解的）；后半时期则静下心来大量阅读了计算机系统，操作系统（集中在minix和linux），计算机网络和架构等书籍；偏工程的有数字信号处理（虚有分数但没实战经验）和机器学习的书籍。人生挺充足和开心的一段时期了(^ω^)。
 初中时期被劝诱入了宅，对动画等感兴趣。大学初期自学了日语，契机是住的地方离学校远，车程有45分钟左右，所以那时在地铁上常拿一款叫 MOJi Nx（x为数字） 的app来阅读解闷，久而久之掌握了很多词汇和语法。以此作为基础，贯穿了大学所有时期，玩了不少美少女游戏（エロゲー）:sweat:。最喜欢的两个公司是 feng 和 hooksoft。
