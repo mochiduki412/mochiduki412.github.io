@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>澄乃&#39;s blog</title>
+        <link>https://sumino-blog.github.io/</link>
+        <description>Recent content on 澄乃&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 06 Feb 2021 23:36:39 +0800</lastBuildDate><atom:link href="https://sumino-blog.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>第一篇博客</title>
+        <link>https://sumino-blog.github.io/p/first-blog/</link>
+        <pubDate>Sat, 06 Feb 2021 23:36:39 +0800</pubDate>
+        
+        <guid>https://sumino-blog.github.io/p/first-blog/</guid>
+        <description>&lt;img src="https://sumino-blog.github.io/p/first-blog/snow_bg1.png" alt="Featured image of post 第一篇博客" /&gt;&lt;h2 id=&#34;序言---第一个博客网站&#34;&gt;序言 - 第一个博客网站&lt;/h2&gt;
+&lt;p&gt;2020下半年在用Django写项目时，因对前端不太了解，在参考前端实现时，偶识了typecho和hugo（的主题实现）。21年初Github上浏览主题时，一眼就喜欢上了JimmyCai设计的这款，所以产生了建立这个博客的兴趣。&lt;/p&gt;
+&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;喜欢计算机和各工程技术&lt;/li&gt;
+&lt;li&gt;喜欢エロゲー&lt;/li&gt;
+&lt;li&gt;喜欢エロゲーソングメドレー和エロゲーソングカラオケ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大学时期的生活基本上是围绕以上进行的了。由于自己是上大学后才开始接触电子和计算机的，在前半时期充满兴致地参加了不少技术社团活动（虽然很多都听得半知半解的）；后半时期则静下心来大量阅读了计算机系统，操作系统（集中在minix和linux），计算机网络和架构等书籍；偏工程的有数字信号处理（虚有分数但没实战经验）和机器学习的书籍。人生挺充足和开心的一段时期了(&lt;em&gt;^ω^&lt;/em&gt;)。&lt;/p&gt;
+&lt;p&gt;初中时期被劝诱入了宅，对动画等感兴趣。大学初期自学了日语，契机是住的地方离学校远，车程有45分钟左右，所以那时在地铁上常拿一款叫 MOJi Nx（x为数字） 的app来阅读解闷，久而久之掌握了很多词汇和语法。以此作为基础，贯穿了大学所有时期，玩了不少美少女游戏（エロゲー）:sweat:。最喜欢的两个公司是 &lt;em&gt;feng&lt;/em&gt; 和 &lt;em&gt;hooksoft&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;由于大学时期经常坐在电脑前，为了解闷常使用油管上的エロゲー作業曲视频，自此ハマ上了（个人认为エロゲー歌曲和エロゲー是完全可以分离的，不少游戏有op/ed质量很高但剧本很烂的情况，所以取其精华取其糟粕的话，等于就算不玩エロゲー也完全不影响享受音乐）。最喜欢和推荐的うp主是 apoper4dolce，但这号在几天前停止使用了，现在うp主以 apoper4melodia 的账号活动；大学初期参加过动画社团的三次 anime song karaoke，自此受影响，喜欢上了karaoke。&lt;/p&gt;
+&lt;p&gt;域名的 mochiduki（望月）是出自 &lt;em&gt;フレラバ&lt;/em&gt; 的 望月理奈。因自己名以M开头所以原定Github和博客都以 mochiduki 来活动。但最近推了一旧作snow后改变主意了，所以该博客内就以 雪月澄乃 来活动吧。&lt;/p&gt;
+&lt;h2 id=&#34;此博客的方针&#34;&gt;此博客的方针&lt;/h2&gt;
+&lt;p&gt;现阶段打算会发布这些方面的内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;技术：计算机网路，操作系统，单片机，工程类的笔记&lt;/li&gt;
+&lt;li&gt;エロゲー感想和推荐&lt;/li&gt;
+&lt;li&gt;エロゲーソングメドレー（歌曲）推荐。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;或许会制作和发布些自用的erogame karaoke视频，类似ニコカラ（nicokara）这种。&lt;/p&gt;
+&lt;p&gt;其中&lt;strong&gt;1. 技术&lt;/strong&gt;为主要发布内容，部分打算以英语发布。&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;感谢阅读到这里！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;あんまんは命の源だよ - Bun is life ~ !&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 133; flex-basis: 320px&#34;&gt;
+		&lt;a href=&#34;https://sumino-blog.github.io/p/first-blog/WS000074.jpg&#34; data-size=&#34;640x480&#34;&gt;&lt;img src=&#34;https://sumino-blog.github.io/p/first-blog/WS000074.jpg&#34;
+				srcset=&#34;https://sumino-blog.github.io/p/first-blog/WS000074_hu6f8bc8988cac4ef2b0362e572dd6b486_77266_480x0_resize_q75_box.jpg 480w, https://sumino-blog.github.io/p/first-blog/WS000074_hu6f8bc8988cac4ef2b0362e572dd6b486_77266_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;640&#34;
+				height=&#34;480&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;引自：http://yorozuya1.blog56.fc2.com/blog-entry-517.html &#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;引自：http://yorozuya1.blog56.fc2.com/blog-entry-517.html&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;可惜emoji没有あんまん&lt;/del&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
